@@ -38,7 +38,7 @@
     "axios": "0.x",
     "babel-polyfill": "6.x",
     "bluebird": "^3.7.2",
-    "cucumber-mink": "2.x",
+    "cucumber-mink": "2.3.0",
     "d8-jsonapi-querystring": "0.0.8",
     "excellentexport": "3.x",
     "flux": "4.x",
@@ -61,7 +61,7 @@
     "tooltip.js": "1.x",
     "typeahead.js": "0.x",
     "url": "0.x",
-    "uswds": "1.x",
+    "uswds": "2.12.2",
     "zustand": "^4.5.5"
   },
   "devDependencies": {
