@@ -9,9 +9,9 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.10.0"
+gem "jekyll", "4.0.0"
 
-gem "html-proofer", "3.19.4"
+gem "html-proofer", "4.0.0"
 gem "kramdown-parser-gfm", "1.1.0"
 
 # If you have any plugins, put them here!
@@ -19,4 +19,4 @@ group :jekyll_plugins do
     gem 'jekyll-redirect-from'
 end
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8", ">= 1.8.2"
