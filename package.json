@@ -61,7 +61,7 @@
     "tooltip.js": "1.x",
     "typeahead.js": "0.x",
     "url": "0.x",
-    "uswds": "1.x",
+    "uswds": "2.0.0",
     "zustand": "^4.5.5"
   },
   "devDependencies": {
