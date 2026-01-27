@@ -47,7 +47,7 @@
     "immutable": "^3.8.2",
     "jquery": "^3.6.4",
     "jsonapi-parse": "1.x",
-    "lodash": "4.x",
+    "lodash": "4.17.23",
     "pluralize": "^8.0.0",
     "prop-types": "15.x",
     "react": "17.x",
